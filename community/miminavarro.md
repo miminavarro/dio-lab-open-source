@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&pause=1000&color=9818DB&background=FDFDFD01&random=false&width=435&separator=%3C&lines=alert+('Hello+World!');+Me+chamo+Milena!%3CBem+vindo(a)+ao+meu+Github!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&pause=1000&color=9818DB&background=FDFDFD01&random=false&width=435&separator=%3C&lines=print+("Hello+World!");+Me+chamo+Milena!%3CBem+vindo(a)+ao+meu+Github!)](https://git.io/typing-svg)
 
 # Sobre mim 👩🏻‍💻
 
@@ -21,6 +21,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&white&color=B77CF2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=8232D2)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=B77CF2)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white&color=8232D2)
 
 # Github Stats 🔛
 
